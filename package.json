@@ -1,0 +1,16 @@
+{
+  "name": "erc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MaNa",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.0"
+  }
+}
